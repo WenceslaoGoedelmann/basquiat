@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+background-image:url(https://wallpaperaccess.com/full/2936194.jpg);
+background-attachment: fixed;
+background-size: cover;
+
+}
+nav {
+border: 1px solid black;
+background-color: rgb(143, 143, 143);
+background-color: rgb(0, 0, 0, 0.5);
+border-radius: 5px;
+width: 99%;
+height: 60px;
+margin: 5px;
+display: flex ;
+justify-content: space-between;
+align-items: center;
+}
+.inicio {
+    margin-left: 15px;
+    margin-top: 4px;
+ }
+.corona {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; 
+ }
+.opciones {
+    display: flex;
+    justify-content: flex-end;
+ 
+}
+.opciones2{
+    display: flex;
+    list-style: none;
+ 
+}
+.botones{
+    font-size: 40px; 
+    margin-left: 30px;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.buscar{
+    width: 200px;
+    height: 40px;   
+    font-size: 30px;  
+    margin-left: 50px;   
+    margin-right: 5px;
+}
+.section1{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.Basquiat {
+    width: 500px;
+    height: 500px;
+   margin: 0px 200px 0px 10px;
+ }
+ .Jean_Michel_Basquiat{
+    font-size: 100px; 
+    color: black;
+    background-color: rgba(216, 213, 213, 0.5);
+    border-radius: 40px;
+ }
+ .section2{
+    font-size: 40px; 
+    color: black;
+    background-color: rgb(171, 171, 171);
+    text-align: center;
+   
+ }
+
